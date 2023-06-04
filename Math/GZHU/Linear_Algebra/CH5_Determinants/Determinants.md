@@ -5,7 +5,7 @@
 \left|\begin{array}{cccc}
 1 &0 \\ 0 &1\end{array}\right|
 =1$$
-#### (2) $exchange\ the\ rows,\ resverse\ the\ sign\ of\ the\ det\ .$
+#### (2) $exchange\ the\ rows,\ resverse\ the\ sign\ of\ the\ det\ .$
 #### (3)
 > $$\left|\begin{array}{cccc}
 ta &tb \\ c &d\end{array}\right|=t\left|\begin{array}{cccc}

@@ -89,7 +89,7 @@ $
 > ##### $$q_i * q_j = \begin{cases} 0\ if\ i \neq j \\1\ if\ i = j \end{cases}$$
 #### (3)orthogonal matrix Q:
 > ##### $$Q = \begin{bmatrix}\\ \\ \\q_i &....& q_n\\ \\ \\ \end{bmatrix}$$
-#### one fact of Q
+#### one fact of Q
 > ##### $$Q^TQ= I$$if Q is  square then $Q^TQ=I$ tells as $A^T = A^{-1}$
 
 #### (4)A method to check whether if the matrix is a orthogonal matrix or not.

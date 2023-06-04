@@ -134,7 +134,7 @@ $$x_1=\begin{bmatrix} 1 \\ 1 \\ 2\end{bmatrix},x_2=\begin{bmatrix} 2 \\ 2 \\ 5\e
 > ##### This is depend on matrix A. dim N(A) is the number of free variables in A.
 
 ## 3.6、Dimension of four Subspaces.
-#### 3.6.1、four fundamental subspaces:
+#### 3.6.1、four fundamental subspaces:
 > - column space:$C(A)$
 > - null psace:$N(A)$
 > - row space :all combinations of rows of A. we use $C(A^T)$ to represent it.

@@ -12,14 +12,14 @@
 - #### column picture:The important idea.We use two vectors to make a new vector.
 > x $\begin{bmatrix}2 \\ -1 \end{bmatrix}$ + y$\begin{bmatrix} -1 \\ 2\end{bmatrix}$ = $\begin{bmatrix} 0 \\ 3\end{bmatrix}$
 
-### 2、A simple example for linear equations Ax=b
+### 2、A simple example for linear equations Ax=b
 > $\begin{bmatrix} 2 & 5\\1 & 3 \end{bmatrix}$$\begin{bmatrix} 1 \\2 \end{bmatrix}$=1 $\begin{bmatrix} 2 \\ 1\end{bmatrix}$+2$\begin{bmatrix} 5 \\ 3\end{bmatrix}$=$\begin{bmatrix} 7 \\ 12\end{bmatrix}$
 
 
 
 
 
-# 2、Elimination Matrix
+# 2、Elimination Matrix
 ### 2.1、A simple example for elimination.
 > ##### Step1:From these equations we can get a matrix
 > x + 2y + z = 2
@@ -63,7 +63,7 @@ than we solve the equations and get x,y,z.
 ## 1、The Rules for matrix multiplication
 > e,g : $\begin{bmatrix}  A_1 & A_2 \\ A_3 & A_4 \end{bmatrix}$$\begin{bmatrix}  B_1 & B_2 \\ B_3 & B_4 \end{bmatrix}$= $\begin{bmatrix}  A_1B_1+A_2B_2 & A_1B_2+A_2B_4 \\ A_3B_1+A_4B_3 & A_3B_2+A_4B_4 \end{bmatrix}$
 > There is a rule: The number of columns in left matrix must equal the number of rows in right matrix.
-## 2、invertible matrix
+## 2、invertible matrix
 #### We use $A^{-1}$ sto indicate the inverse matrix of A.
 > $AA^{-1}=I$
 > $A^{-1}=I$
