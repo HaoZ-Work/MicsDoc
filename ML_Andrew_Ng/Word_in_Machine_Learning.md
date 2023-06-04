@@ -20,9 +20,9 @@ Polynomial Regression 多项式回归
 Decision Boundary 决策界限
 Neuron 神经元
 dendrite 树突
-Axon 轴突
-forward propagation 向前传播
+Axon 轴突
+forward propagation 向前传播
 skewed classes 偏斜类问题
 Precision 查准率
-recall 召回率
+recall 召回率
 threshold 边界，门槛
